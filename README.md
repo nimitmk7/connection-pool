@@ -1,6 +1,6 @@
 # swimming-pool
 
-A basic implementation of JDBC connection pool using MySQL DB
+A basic implementation of JDBC connection pool on MySQL DB
 
 To get the number of max connections your MySQL DB supports use command: 
 
